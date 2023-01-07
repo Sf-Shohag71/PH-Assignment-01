@@ -19,8 +19,8 @@
 }
 .banner-content {
   text-align: right;
-  margin-left: 50%;
-  padding: 100px 130px 200px;
+  margin-left: 55%;
+  padding: 100px 200px 200px 0;
 }
 .banner-title {
   color: white;
@@ -37,7 +37,7 @@
   display: flex;
   gap: 80px;
   align-items: center;
-  margin: 70px 130px;
+  margin: 70px 170px;
 }
 span {
   color: #444343;
